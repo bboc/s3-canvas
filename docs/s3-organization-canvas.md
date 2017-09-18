@@ -72,6 +72,6 @@ How will you start and sustain your organization financially?
 
 The _S3 Organization Canvas_ by Bernhard Bockelbrink is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/). This work is a derivative of the Business Model Canvas by Alexander Osterwalder and Strategyzer, and of the Lean Canvas by Ash Maurya. 
 
-More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://sociocracy30.com/s3-canvas>
+More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://s3canvas.sociocracy30.org>
 
 S3 Organization Canvas rev. 2017-05-15

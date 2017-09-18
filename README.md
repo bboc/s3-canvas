@@ -2,8 +2,7 @@
 
 Here's a set of simple and lightweight tools to bring more  clarity and transparency to your organization: the S3 Canvas Series.
 
-Downloads and documentation are hosted on a [dedicated page](https://bboc.github.io/s3-canvas/)
-
+Downloads and documentation are hosted on <http://s3canvas.sociocracy30.org>
 
 
 ## License 

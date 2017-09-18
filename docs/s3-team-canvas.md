@@ -61,6 +61,6 @@ A schedule of regular team events (e.g. Daily Standup, Retrospectives, Governanc
 
 The S3 Team Canvas by Bernhard Bockelbrink is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/)..
 
-More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://sociocracy30.com/s3-canvas>.
+More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://s3canvas.sociocracy30.org>.
 
 S3 Team Canvas rev. 2017-05-15
