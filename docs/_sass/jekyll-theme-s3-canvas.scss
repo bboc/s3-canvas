@@ -110,6 +110,10 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
+  background: #b3e4e5;
+  border-radius:15px;
+  padding: 15px;
+  border:1px solid #e0e0e0;  
 }
 
 header ul {
@@ -167,6 +171,10 @@ footer {
   position:fixed;
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
+  border-radius:15px;
+  padding: 15px;
+  border:1px solid #e0e0e0;  
+
 }
 
 @media print, screen and (max-width: 960px) {
