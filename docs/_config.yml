@@ -22,6 +22,7 @@ markdown: kramdown
 plugins:
   - jekyll-feed
   - jekyll-relative-links
+  - jekyll-sitemap
 exclude:
   - Gemfile
   - Gemfile.lock
