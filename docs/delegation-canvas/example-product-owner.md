@@ -1,15 +1,16 @@
-# Example: Product Owner
+# Delegation Canvnas Example: <br/> Product Owner
+
+[back to the delegation canvas guide](../s3-delegation-canvas.md)
 
 ## 1. Primary Driver / Mission
 
-"We need someone to focus on making our appliances valuable to both the user and the company."
+_"We need someone to focus on making our appliances valuable to both the user and the company."_
 
 ## 2. Key Responsibilities
 
 - create features that users actually need
 - align product features with company strategy
 - release planning
-
 
 ## 3. Key Challenges
 
@@ -21,7 +22,6 @@
 - CEO has input on as well a right to veto all product decisions
 - software development team has long lead times because they work for multiple projects
 - high turnover in this position requires solid documentation of everything that might be relevant to a 
-
 
 ## 5. Key Deliverables
 
@@ -41,7 +41,6 @@
 - pilot customers willing to use prototypes and test versions 
 - strategy board
  
-
 ## 8. Evaluation
 
 - peer review every 3 months, with members of hardware team, software team, sales team and CEO
@@ -56,3 +55,5 @@
 
 - strategy team (provides a strategy board which is updated at least quarterly)
 - architecture team (provides guidelines and consulting about software and hardware architecture)
+
+[back to the delegation canvas guide](../s3-delegation-canvas.md)

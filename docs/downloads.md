@@ -1,9 +1,22 @@
-# The S3 Canvas Series
+---
+title: Downloads
+---
 
-Here's a set of simple and lightweight tools to bring more  clarity and transparency to your organization: the S3 Canvas Series.
+# Downloads 
 
-Downloads and documentation are hosted on a [dedicated page](https://bboc.github.io/s3-canvas/)
+See the [format guide](format-guide.md) for more information about the various formats.
 
+## Delegation Canvas
+
+{% include download.html type="delegation-canvas" %} 
+
+## Organization Canvas
+
+{% include download.html type="organization-canvas" %} 
+
+## Team Canvas
+
+{% include download.html type="team-canvas" %} 
 
 
 ## License 

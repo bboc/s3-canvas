@@ -1,0 +1,47 @@
+# If you find yourself editing this file very often, consider using Jekyll's 
+# data files feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# Any variable defined here will be accessible in the templates via {{ site.myvariable }}.
+
+title: The S3 Canvas Series
+email: bernhard.bockelbrink@gmail.com
+description: > 
+  A set of lighweight tool to explain and evolve an organiation's business model, structure and teams.
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "" # the base hostname & protocol for your site, e.g. http://example.com
+twitter_username: b_bockelbrink
+github_username:  bboc
+
+# Build settings
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-relative-links
+exclude:
+  - Gemfile
+  - Gemfile.lock
+
+kramdown:
+  auto_ids: true
+
+google-drive:
+  delegation-canvas:
+    online: 1pItgTVW-QC3sDDvsBP_uKAKBg407bE294zcYIZJnIgw
+    print: 1FIu7_UEyxixjEcrNfCiYA6IbO9xOdoOMgra3ucwmd3Q
+  organization-canvas:
+    online: 1m06SEWXXPWfLVgz9FsL5bLyOKlHW6gkHFV2Dc2tBoO0
+    print: 1L5lpu8a1OxPV7fn5xx1veYKrBAzlT-5zKHqKOibT434
+  team-canvas:
+    online: 1JM5IEfksMx4vFB1Fu1UCCezthMQ8uTNb9md_ZKAvlCQ
+    print: 1qUlcyjR4TDzCQMnAc9Ugnta_7G_tysixH73yoJrUFMQ
+
+# https://drive.google.com/open?id=
+# https://docs.google.com/document/d/FILE_ID/export?format=pdf
+# https://docs.google.com/document/d/FILE_ID/edit
+# https://docs.google.com/document/d/FILE_ID/copy
+# https://docs.google.com/document/d/FILE_ID/preview
+

@@ -1,22 +1,32 @@
 # S3 Delegation Canvas
 
+[The Guide](#delegation-canvas-guide) | [Downloads](#downloads) | [Examples](#examples) | the [Delegation Game](#the-delegation-game)
+
+## Overview
+
 The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain to a team or role. Sections are numbered to indicate the suggested order of moving through the canvas.
 
-## 1. Primary Driver / Mission
+![The Delegation Canvas](/img/s3-organization-canvas-sm.png)
+
+Each canvas is available in many different formats, so that you can print it for use in a workshop, create an online version (e.g. in Google Drive or in cnvrg), or create an offline version. See the [format guide](/format-guide.md) for more information.
+
+## Delegation Canvas Guide
+
+### 1. Primary Driver / Mission
 
 Justify the domain: 
 
 * Why does the team or role exist?
 * What is the need it responds to?
 
-## 2. Key Responsibilities
+### 2. Key Responsibilities
 
 Clarify domain:
 
 * list the top three responsibilities (common goals or objectives)
 * describe them in a way that that enables measuring success
 
-## 3. Key Challenges
+### 3. Key Challenges
 
 Identify at least least three important challenges to the **success** of the team/role. Challenges are related to the outside world, to the organization, or sometimes also to specific delegatee(s). Look for
 
@@ -24,7 +34,7 @@ Identify at least least three important challenges to the **success** of the tea
 * uncertainty and complexity
 * lack of skills or resources.
 
-## 4. Key Constraints
+### 4. Key Constraints
 
 Describe important constraints to the **autonomy** and **influence** of the delegatee. Key constraints are either fixed, or a matter of decision, and may be related to the outside world,  the organization, or specifically to the delegator's level of trust. Some examples:
 
@@ -36,7 +46,7 @@ Describe important constraints to the **autonomy** and **influence** of the dele
 * audits
 * expected reports
 
-## 5. Key Deliverables
+### 5. Key Deliverables
 
 What does the team/role provide to meet the key responsibilities and key challenges? 
 
@@ -44,23 +54,23 @@ What do other parties expect from the team/role?
 
 Describe at least the top three deliverables (products, services, experiences or transformations). 
 
-## 6. Delegator Responsibilities
+### 6. Delegator Responsibilities
 
 What is the delegator's contribution to the success of the delegatee(s)? 
 
 Responsibilities  should be specific and measurable, so they can be reviewed and developed.
 
-## 7. Key Metrics
+### 7. Key Metrics
 
 How can you measure successful delegation?
 
 Prefer simple, continuous and actionable metrics, and relate them to driver, responsibilities, challenges and deliverables.
 
-## 8. Key Resources
+### 8. Key Resources
 
 Essential resources, assets or privileges the delegatee(s) can make use of in accounting for their domain.
 
-## 9. Evaluation
+### 9. Evaluation
 
 When and how will this delegation be developed?
 
@@ -70,7 +80,7 @@ Agree on:
 * evaluation criteria in addition the key metrics
 * any other relevant aspects of the evaluation.
 
-## 10. Dependencies
+### 10. Dependencies
 
 What are the essential dependencies between this domain and other parts of the organization?
 
@@ -84,6 +94,19 @@ Describe:
 ## The Delegation Game
 
 The Delegation Game is a simple and fun activity to define and delegate a new domain, or to develop shared understanding and reveal misconceptions about an existing domain. Gather those delegating the domain (e.g. a manager) and those the domain is delegated to (e.g. somebody in a role or position, or the members of a team). Allow for 15 minutes for each participant to fill in their canvas individually, and then go through each section together, comparing notes and agreeing on the details of the domain.
+
+## Examples
+
+Here's a few examples for delegation canvases as they might appear in a digital logbook:
+
+* [architecture circle](delegation-canvas/example-architecture-circle.md)
+* [architecture delegate](delegation-canvas/example-architecture-delegate.md)
+* [product owner](delegation-canvas/example-product-owner.md)
+
+
+## Downloads
+
+{% include download.html type="delegation-canvas" %} 
 
 ## License
 

@@ -1,8 +1,10 @@
-# Example - Architecture Circle
+# Delegation Canvas Example: <br/>Architecture Circle
+
+[back to the delegation canvas guide](../s3-delegation-canvas.md)
 
 ## 1. Primary Driver / Mission
 
-"As our product portfolio grows, our apps mature, and the number of developers increases, we need alignment on architecture and guidance on software craftsmanship in order to remain productive."
+_"As our product portfolio grows, our apps mature, and the number of developers increases, we need alignment on architecture and guidance on software craftsmanship in order to remain productive."_
 
 ## 2. Key Responsibilities
 
@@ -59,3 +61,4 @@
 - product owners (architecture needs to be aligned to product)
 - development teams (feedback on quality of architecture decision and coaching)
 
+[back to the delegation canvas guide](../s3-delegation-canvas.md)

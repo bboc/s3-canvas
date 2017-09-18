@@ -1,8 +1,11 @@
-# Example - Architecture Delegate 
+# Delegation Canvas Example: <br/> Architecture Delegate 
+
+[back to the delegation canvas guide](../s3-delegation-canvas.md)
+
 
 ## 1 Primary Driver / Mission
 
-"For our architecture circle to make informed and helpful decisions, its members need to maintain a connection to the daily work of developers and product owners."
+_"For our architecture circle to make informed and helpful decisions, its members need to maintain a connection to the daily work of developers and product owners."_
 
 ## 2. Key Responsibilities
 
@@ -54,3 +57,5 @@
 
 - home team (for architecture and craftsmanship drivers)
 - architecture circle (for architecture backlog and decisions)
+
+[back to the delegation canvas guide](../s3-delegation-canvas.md)
