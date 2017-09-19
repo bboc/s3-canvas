@@ -1,17 +1,20 @@
-@import "fonts";
 @import "rouge-github";
 @import "quicklinks";
+
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i|Ubuntu:300,400');
+
 body {
-  background-color: #fff;
+  background-color:#fff;
   padding:50px;
-  font: 14px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font:14px/1.5 'Open Sans', "Helvetica Neue", Helvetica, Arial, sans-serif;
   color:#727272;
-  font-weight:400;
+  font-weight:300;
 }
 
 h1, h2, h3, h4, h5, h6 {
   color:#222;
   margin:0 0 20px;
+  font-family:'Ubuntu', sans-serif;
 }
 
 p, ul, ol, table, pre, dl {
@@ -24,24 +27,49 @@ h1, h2, h3 {
 
 h1 {
   font-size:28px;
+  font-weight:300;
 }
 
 h2 {
+  font-size:22px;
   color:#267CB9;
+  font-weight:300;
 }
 
-h3, h4, h5, h6 {
+h3 {
+  font-size:18px;
   color:#494949;
+  font-weight:400;
+  
 }
+h4 {
+  font-size:16px;
+  color:#494949;
+  font-weight:400;
+}
+
+h5 {
+  font-size:14px;
+  color:#494949;
+  font-weight:400;
+}
+
+h6 {
+  font-size:12px;
+  color:#494949;
+  font-weight:400;
+}
+
 
 a {
   color:#267CB9;
   text-decoration:none;
+  font-weight:400;
 }
 
 a:hover, a:focus {
   color:#069;
-  font-weight: bold;
+  font-weight:400;
 }
 
 a small {
@@ -75,10 +103,10 @@ code, pre {
 
 pre {
   padding:8px 15px;
-  background: #f8f8f8;
+  background:#f8f8f8;
   border-radius:5px;
   border:1px solid #e5e5e5;
-  overflow-x: auto;
+  overflow-x:auto;
 }
 
 table {
@@ -94,7 +122,7 @@ th, td {
 
 dt {
   color:#444;
-  font-weight:700;
+  font-weight:400;
 }
 
 th {
@@ -110,9 +138,9 @@ header {
   float:left;
   position:fixed;
   -webkit-font-smoothing:subpixel-antialiased;
-  background: #b3e4e5;
+  background:#b3e4e5;
   border-radius:15px;
-  padding: 15px;
+  padding:15px;
   border:1px solid #e0e0e0;  
 }
 
@@ -124,7 +152,7 @@ header ul {
 
 header li {
   /*float:left;*/
-  padding: 5px;
+  padding:5px;
 }
 
 header ul a {
@@ -136,7 +164,7 @@ header ul a {
 
 header ul a:hover, header ul a:focus {
   color:#675C5C;
-  font-weight:bold;
+  font-weight:400;
 }
 
 header ul a:active {
@@ -145,7 +173,7 @@ header ul a:active {
 
 strong {
   color:#222;
-  font-weight:700;
+  font-weight:400;
 }
 
 section {
@@ -172,7 +200,7 @@ footer {
   bottom:50px;
   -webkit-font-smoothing:subpixel-antialiased;
   border-radius:15px;
-  padding: 15px;
+  padding:15px;
   border:1px solid #e0e0e0;  
 
 }
