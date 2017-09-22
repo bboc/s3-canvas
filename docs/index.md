@@ -29,7 +29,7 @@ The **[S3 Organization Canvas](s3-organization-canvas.md)**,  used to describe a
 
 [![](/img/s3-organization-canvas-sm.png)](s3-organization-canvas.html)
 
-# The Team Canvas
+## The Team Canvas
 
 The **[S3Team Canvas](s3-team-canvas.md)**, is a companion to the Delegation Canvas and helps a team or circle describe their "inwards" perspective, their development and the relationships of the team's members. The team canvas can be used to kickstart a new team, or to support an existing one. 
 
