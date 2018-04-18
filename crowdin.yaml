@@ -1,0 +1,16 @@
+"preserve_hierarchy": true
+
+"files": [
+  {
+    "source": "/docs/_config.yml",
+    "translation": "/translations/%two_letters_code%/docs/%original_file_name%"
+  },
+  {
+    "source": "/docs/_includes/*.html",
+    "translation": "/translations/%two_letters_code%/docs/_includes/%original_file_name%"
+  },
+  {
+    "source": "/docs/**/*.md",
+    "translation": "/translations/%two_letters_code%/src/**/%original_file_name%"
+  }
+]
