@@ -1,4 +1,4 @@
-# Delegation Canvnas Example: <br/> Product Owner
+# Delegation Canvas Example: <br/> Product Owner
 
 [back to the delegation canvas guide](../s3-delegation-canvas.md)
 

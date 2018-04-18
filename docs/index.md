@@ -4,9 +4,9 @@ title: The S3 Delegation Canvas Series
 
 ## Overview
 
-Here's a set of simple and lightweight tools to bring more  clarity and transparency to your organization: the S3 Canvas Series.
+Here's a set of simple and lightweight tools to collectively explore and develop your organization: the S3 Canvas Series. 
 
-As of now there's three different canvases: the [delegation canvas](#the-delegation-canvas), the [organization canvas](#the-organization-canvas) and the [team canvas](#the-team-canvas).
+As of now there's three different canvases: the [delegation canvas](#the-delegation-canvas), the [organization canvas](#the-organization-canvas) and the [team canvas](#the-team-canvas). Each of them helps you bring clarity and transparency another aspect of your organization: it's structure, the collaboration on team level, and the reason fore existence and the business model of your entire organization.
 
 Filling in a canvas in a group typically takes between 30 and 45 minutes, and helps you to develop shared understanding around the organization itself, it’s domains, and your circles or teams.
 
