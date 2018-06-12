@@ -6,7 +6,7 @@
 
 The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain to a team or role. Sections are numbered to indicate the suggested order of moving through the canvas.
 
-![The Delegation Canvas](/img/s3-organization-canvas-sm.png)
+![The Delegation Canvas](/img/s3-delegation-canvas-sm.png)
 
 Each canvas is available in many different formats, so that you can print it for use in a workshop, create an online version (e.g. in Google Drive or in cnvrg), or create an offline version. See the [format guide](/format-guide.md) for more information.
 
