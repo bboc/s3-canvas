@@ -28,7 +28,7 @@ Clarify domain:
 
 ### 3. Key Challenges
 
-Identify at least least three important challenges to the **success** of the team/role. Challenges are related to the outside world, to the organization, or sometimes also to specific delegatee(s). Look for
+Identify at least three important challenges to the **success** of the team/role. Challenges are related to the outside world, to the organization, or sometimes also to specific delegatee(s). Look for
 
 * risk
 * uncertainty and complexity
