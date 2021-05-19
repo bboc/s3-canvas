@@ -143,10 +143,10 @@ How will you monitor the key metrics, and when (and how) will you evaluate  succ
 
 **Monitoring**: When will you check  the key metrics, and who will do it?
 
-**Evaluation:**  Agree on a schedule for evaluation of success of the team/role, any evaluation criteria in addition the key metrics, and any other relevant aspects of the evaluation.
+**Evaluation:**  Agree on a schedule for evaluation of success of the team/role, any evaluation criteria in addition to the key metrics, and any other relevant aspects of the evaluation.
 
 ### Short (OmniGraffle)
 
-Define when the key metrics will be checked, and who will do it. Agree on a schedule for evaluating the success of the team/role, any evaluation criteria in addition the key metrics, and any other relevant aspects of the evaluation.
+Define when the key metrics will be checked, and who will do it. Agree on a schedule for evaluating the success of the team/role, any evaluation criteria in addition to the key metrics, and any other relevant aspects of the evaluation.
 
 
