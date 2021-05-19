@@ -2,18 +2,11 @@
 
 **Note:** This is the short text as it appears in the Google doc and the PDFs
 
-### Header text for "facilitation guide"
+## Header text for "facilitation guide"
 
-
-**New:** The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain (i.e. an area of activity and decision making) to a team or an individual (the so-called _delegatee(s)_). Sections are numbered to indicate the suggested order of moving through the canvas.
-
+The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain (i.e. an area of activity and decision making) to a team or an individual (the so-called _delegatee(s)_). Sections are numbered to indicate the suggested order of moving through the canvas.
 
 The Delegation Game: a simple and fun activity for defining and delegating a new domain, or for developing shared understanding and revealing misconceptions about an existing domain. Gather those delegating the domain (e.g. a manager) and those the domain is delegated to (e.g. somebody in a role or position, or the members of a team). Allow for 15 minutes for each participant to fill in their canvas individually, and then go through each section together, comparing notes and agreeing on the details of the domain.
-
-**Note**: avoid using not use "driver", "delegator" or "delegatee" if possible.
-
-**Note:** add more informations / a more detailed facilitation guide for filling out the canvas can be found at <url>" in all formats
-
 
 ## 1. Primary Driver / Purpose
 
