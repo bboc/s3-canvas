@@ -1,6 +1,6 @@
 # The S3 Canvas Series
 
-Here's a set of simple and lightweight tools to bring more  clarity and transparency to your organization: the S3 Canvas Series.
+Here's a set of simple and lightweight tools to bring more clarity and transparency to your organization: the S3 Canvas Series.
 
 Downloads and documentation are hosted on <http://s3canvas.sociocracy30.org>
 
