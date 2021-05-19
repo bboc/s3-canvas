@@ -2,6 +2,8 @@
 
 [back to the delegation canvas guide](../s3-delegation-canvas.md)
 
+**Note:** this example was made using the older format of the delegation canvas, therefore the sections about "competencies, qualities and skills
+" is missing, and the other sections are in a slightly different order and some have a slightly different title.
 
 ## 1 Primary Driver / Mission
 
