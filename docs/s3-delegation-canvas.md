@@ -4,96 +4,127 @@
 
 ## Overview
 
-The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain to a team or role. Sections are numbered to indicate the suggested order of moving through the canvas.
+The S3 Delegation Canvas is a tool for negotiating and clarifying the delegation of a domain to a group of people (e.g. a team or a department) or to an individual (who can take on one or several roles). 
+
+Sections of the canvas are numbered to indicate the suggested order of moving through the canvas.
 
 ![The Delegation Canvas](/img/s3-delegation-canvas-sm.png)
 
 Each canvas is available in many different formats, so that you can print it for use in a workshop, create an online version (e.g. in Google Drive or in cnvrg), or create an offline version. See the [format guide](/format-guide.md) for more information.
 
+### Definitions
+
+The delegation canvas (and this guide) uses a few terms in a rather specific way you might not be familar with, so here's a brief explanation: 
+
+A **domain** is simply a distinct area of influence, activity and decision making within an organization. 
+
+**Delegation** is the grant of authority by one party (the **delegator**) to another (the **delegatee**) to account for a domain (i.e. to do certain things and/or to make certain decisions).
+
+Responsibility for domains is delegated to groups or individuals, who then may do whatever they think will help them achieve their purpose, unless it is outside the domain of the organization, explicitly forbidden, they violate somebody else’s (explicit) domain, or impede other people’s contribution to the organization in some other way. 
+
+The delegator selects the delegatees and retains overall accountability for the domain.
+
+You can find more information about domains an delegation in the [introduction to the S3 Practical Guide](http://patterns.sociocracy30.org/domain.html) and in the pattern [Clarify and Delveop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)
+
+
 ## Delegation Canvas Guide
 
-### 1. Primary Driver / Mission
+### 1. Primary Driver / Purpose
 
-Justify the domain: 
+_What  purpose does the team (or role) serve in the organization?_
 
-* Why does the team or role exist?
-* What is the need it responds to?
+- Why does the team or role exist?
+- What is the organizational need it responds to?
+
 
 ### 2. Key Responsibilities
 
-Clarify domain:
+_What are the delegatee's main responsibilities, i.e. objectives, or essential work and decision making being delegated?_
+_
+- list at least the top three responsibilities
+- describe them in a way that that enables measuring success
 
-* list the top three responsibilities (common goals or objectives)
-* describe them in a way that that enables measuring success
+### 3. Dependencies
 
-### 3. Key Challenges
 
-Identify at least least three important challenges to the **success** of the team/role. Challenges are related to the outside world, to the organization, or sometimes also to specific delegatee(s). Look for
+_What are the essential dependencies between this domain and other parts of the organization?__ 
 
-* risk
-* uncertainty and complexity
-* lack of skills or resources.
+Describe 
 
-### 4. Key Constraints
+- **customers** (those who consume the team's output)
+- **providers** of products or services essential to the work of the delegatee(s) (include reasonable expectations about the delivery)
+-  shared resources (if any).
 
-Describe important constraints to the **autonomy** and **influence** of the delegatee. Key constraints are either fixed, or a matter of decision, and may be related to the outside world,  the organization, or specifically to the delegator's level of trust. Some examples:
+### 4. External Constraints
 
-* shared resources
-* required consultations or outside influence
-* time constraints
-* legal constraints
-* budget constraints
-* audits
-* expected reports
+_What are important external constraints to the **autonomy** and **influence** of the delegatee(s)?_ 
 
-### 5. Key Deliverables
+Constraints may be related to customer requirements, to the outside world, to essential stakeholders in the organization, to other responsibilities the delegatee(s) may have, or to the preference of the delegator. 
 
-What does the team/role provide to meet the key responsibilities and key challenges? 
+Some examples: 
 
-What do other parties expect from the team/role? 
+- decisions requiring authorization;
+- legal, time, or budget constraints
+- audits and/or expected reporting
+- organizational strategy or values.
 
-Describe at least the top three deliverables (products, services, experiences or transformations). 
+### 5. Key Challenges
 
-### 6. Delegator Responsibilities
+_What are the three most important known (or anticipated) challenges the delegatee(s) might face?_
 
-What is the delegator's contribution to the success of the delegatee(s)? 
+Consider the outside world, the organization itself, the delegator and the specific delegatee(s). Look for
 
-Responsibilities  should be specific and measurable, so they can be reviewed and developed.
+-   risks and vulnerabilities
+-   variables (e.g. weather)
+-   uncertainty and complexity
+-   lack of skills or resources.
 
-### 7. Key Metrics
+### 6. Key Deliverables
 
-How can you measure successful delegation?
+_What does the team/role provide to achieve its purpose and meet the key responsibilities and key challenges?_ 
 
-Prefer simple, continuous and actionable metrics, and relate them to driver, responsibilities, challenges and deliverables.
+When describing deliverables (products, services, experiences or transformations), take into account what other parties would expect from the team / role.
+
+
+### 7. Competencies, qualities and skills
+
+_What competencies, qualities and skills are required – or at least preferable – to successfully achieve the purpose of this domain?_ 
+
+Consider what you listed as Key Responsibilities, Key Deliverables and Key Challenges.
+
 
 ### 8. Key Resources
 
-Essential resources, assets or privileges the delegatee(s) can make use of in accounting for their domain.
+_What are essential resources the delegatee(s) can make use of?_ 
 
-### 9. Evaluation
+Examples: time allocation, budget, privileges, facilities, hardware, software, etc.
 
-When and how will this delegation be developed?
 
-Agree on:
+### 9. Delegator Responsibilities
 
-* schedule for review of the delegation
-* evaluation criteria in addition the key metrics
-* any other relevant aspects of the evaluation.
+_What is the delegator's contribution to the success of the delegatee(s)?_
 
-### 10. Dependencies
+Responsibilities should be specific and measurable, so they can be reviewed and developed over time.
 
-What are the essential dependencies between this domain and other parts of the organization?
 
-Describe:
+### 10. Key Metrics 
 
-* **customers** (those who consume the team's output) 
-* **providers** of products or services essential to the work of the delegatee(s). Include reasonable expectations about the delivery.
-* any other **essential stakeholders**
+_What are the critical indicators of progress, project health or performance?_
 
+Prefer simple, continuous and actionable metrics related to the domain's purpose, key responsibilities, challenges, deliverables, and delegator responsibilities, and define specific targets, acceptable range or tolerance.
+
+
+### 11. Monitoring and Evaluation
+
+_How will you monitor the key metrics, and when (and how) will you evaluate  success of the team/role?_
+
+**Monitoring**: When will you check  the key metrics, and who will do it?
+
+**Evaluation:**  Agree on a schedule for evaluation of success of the team/role, any evaluation criteria in addition to the key metrics, and any other relevant aspects of the evaluation.
 
 ## The Delegation Game
 
-The Delegation Game is a simple and fun activity to define and delegate a new domain, or to develop shared understanding and reveal misconceptions about an existing domain. Gather those delegating the domain (e.g. a manager) and those the domain is delegated to (e.g. somebody in a role or position, or the members of a team). Allow for 15 minutes for each participant to fill in their canvas individually, and then go through each section together, comparing notes and agreeing on the details of the domain.
+The Delegation Game is a simple and fun activity for defining and delegating a new domain, or for developing shared understanding and revealing misconceptions about an existing domain. To play, gather those delegating the domain (e.g. a manager) and those the domain is delegated to (e.g. somebody in a role or position, or the members of a team). Set a timer for 15 minutes and have each participant fill in their own copy of the canvas, then go through the canvas section by section, compare notes and agree on the details of the domain.
 
 ## Examples
 
@@ -114,4 +145,4 @@ The _S3 Delegation Canvas_ by Bernhard Bockelbrink is licensed under a [Creative
 
 More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://s3canvas.sociocracy30.org>
 
-S3 Delegation Canvas rev. 2017-09-11
+S3 Delegation Canvas rev. 2021-05-15
