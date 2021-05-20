@@ -96,7 +96,7 @@ Describe at least the top three deliverables (products, services, experiences or
 
 ## 7. Competencies, Qualities and Skills
 
-What competencies, qualities and skills are required – or at least preferable – to a successfully achieve the purpose of this domain? Consider what you listed as Key Responsibilities, Key Deliverables and Key Challenges.
+What competencies, qualities and skills are required – or at least preferable – to successfully achieve the purpose of this domain? Consider what you listed as Key Responsibilities, Key Deliverables and Key Challenges.
 
 
 ## 8. Key Resources
