@@ -130,9 +130,9 @@ The Delegation Game is a simple and fun activity for defining and delegating a n
 
 Here's a few examples for delegation canvases as they might appear in a digital logbook:
 
-* [architecture circle](delegation-canvas/example-architecture-circle.md)
-* [architecture delegate](delegation-canvas/example-architecture-delegate.md)
-* [product owner](delegation-canvas/example-product-owner.md)
+* [Architecture Circle](delegation-canvas/example-architecture-circle.md)
+* [Architecture Delegate](delegation-canvas/example-architecture-delegate.md)
+* [Product Owner](delegation-canvas/example-product-owner.md)
 
 
 ## Downloads
