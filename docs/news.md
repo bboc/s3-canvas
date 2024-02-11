@@ -4,6 +4,11 @@ title: News
 
 # News and Updates
 
+## 2024-02-09
+
+* aligned Delegation Canvas with current version of the pattern [Clarify and Develop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)
+* added new example for delegation canvas
+
 ## 2021-05-15
 
 * aligned Delegation Canvas with current version of the pattern [Clarify and Develop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)

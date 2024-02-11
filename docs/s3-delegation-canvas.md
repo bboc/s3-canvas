@@ -29,98 +29,88 @@ You can find more information about domains an delegation in the [introduction t
 
 ## Delegation Canvas Guide
 
-### 1. Primary Driver / Purpose
 
-_What  purpose does the team (or role) serve in the organization?_
+### 1. Purpose
 
-- Why does the team or role exist?
+_What’s the primary driver and the associated requirement this team (or role keeper) is responsible for taking care of in the organization?_
+
+- Why does the team/role exist?
 - What is the organizational need it responds to?
 
 
 ### 2. Key Responsibilities
 
-_What are the delegatee's main responsibilities, i.e. objectives, or essential work and decision making being delegated?_
-_
+_What is the essential work and decision-making being delegated to the team (or role keeper)?_
+
 - list at least the top three responsibilities
-- describe them in a way that that enables measuring success
-
-### 3. Dependencies
+- describe them in a way that enables measuring success
 
 
-_What are the essential dependencies between this domain and other parts of the organization?__ 
+### 3. Customers and Deliverables
 
-Describe 
+Whom does this team (or role keeper) deliver value to, and what specifically do they provide?
 
-- **customers** (those who consume the team's output)
-- **providers** of products or services essential to the work of the delegatee(s) (include reasonable expectations about the delivery)
--  shared resources (if any).
+- List all relevant **internal and external customers** who depend on, or benefit from the value provided by this team (or role keeper).
+- Include both **customers and users** (if there is a difference).
+- Start with a sentence or two about each deliverable, explaining what it is and why it is valuable to the customer, and then add more details if helpful.
+  
+ 
+### 4. Dependencies
 
-### 4. External Constraints
+_Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
 
-_What are important external constraints to the **autonomy** and **influence** of the delegatee(s)?_ 
-
-Constraints may be related to customer requirements, to the outside world, to essential stakeholders in the organization, to other responsibilities the delegatee(s) may have, or to the preference of the delegator. 
-
-Some examples: 
-
-- decisions requiring authorization;
-- legal, time, or budget constraints
-- audits and/or expected reporting
-- organizational strategy or values.
-
-### 5. Key Challenges
-
-_What are the three most important known (or anticipated) challenges the delegatee(s) might face?_
-
-Consider the outside world, the organization itself, the delegator and the specific delegatee(s). Look for
-
--   risks and vulnerabilities
--   variables (e.g. weather)
--   uncertainty and complexity
--   lack of skills or resources.
-
-### 6. Key Deliverables
-
-_What does the team/role provide to achieve its purpose and meet the key responsibilities and key challenges?_ 
-
-When describing deliverables (products, services, experiences or transformations), take into account what other parties would expect from the team / role.
+List key dependencies – the products, services, information etc. essential to the
+work of the team/role – both from **within the organization** and from the **outside world**. Describe who provides them, and clarify expectations about the delivery if helpful.
 
 
-### 7. Competencies, qualities and skills
+### 5. External Constraints
 
-_What competencies, qualities and skills are required – or at least preferable – to successfully achieve the purpose of this domain?_ 
+_What are important external constraints to the team’s (or role keeper’s) autonomy and influence?_
 
-Consider what you listed as Key Responsibilities, Key Deliverables and Key Challenges.
-
-
-### 8. Key Resources
-
-_What are essential resources the delegatee(s) can make use of?_ 
-
-Examples: time allocation, budget, privileges, facilities, hardware, software, etc.
+Constraints may be related to customer requirements, to the outside world, to essential stakeholders in the organization, to shared resources, to other responsibilities the members of the team or person in the role may have, or to the preference of the delegator.
 
 
-### 9. Delegator Responsibilities
+### 6. Key Challenges
 
-_What is the delegator's contribution to the success of the delegatee(s)?_
+_What are the most important known (or anticipated) challenges the team (or role keeper) might face?_
+
+Consider the outside world, the organization itself, the delegator and the members of the team, or person in the role. Look for risks, vulnerabilities, variables, uncertainty, complexity, and lack of skills or resources.
+
+
+### 7. Key Resources
+
+_What are essential resources the team or role keeper can make use of?_
+
+Examples: time allocation, supply of money, privileges and permissions, facilities, hardware, software, materials, internal or external service providers, products, stock, etc.
+
+
+### 8. Delegator Responsibilities
+
+_What responsibilities can the team (or role keeper) rely on the delegator to take care of to support them to successfully account for this domain?_
 
 Responsibilities should be specific and measurable, so they can be reviewed and developed over time.
 
 
-### 10. Key Metrics 
+### 9. Competencies, Qualities and Skills
 
-_What are the critical indicators of progress, project health or performance?_
+_What competencies, qualities and skills are required – or at least preferable – to successfully achieve the purpose of this domain?_
 
-Prefer simple, continuous and actionable metrics related to the domain's purpose, key responsibilities, challenges, deliverables, and delegator responsibilities, and define specific targets, acceptable range or tolerance.
+Consider what you listed as Key Responsibilities, Key Deliverables and Key Challenges.
+ 
+
+### 10. Key Metrics and Monitoring
+
+_What are the critical indicators of progress, performance, project health, etc, how frequently will they be measured and by whom?_
+
+Define simple and specific metrics that enable you to monitor progress and effectiveness, as well as to spot potential issues or opportunities as they arise. Specify when or how frequently key metrics will be checked, and by whom.
 
 
-### 11. Monitoring and Evaluation
+### 11. Evaluation Schedule
 
-_How will you monitor the key metrics, and when (and how) will you evaluate  success of the team/role?_
+_When and how will you evaluate the effectiveness of the domain’s design and the success of the team (or role keeper) in fulfilling the domain’s purpose?_
 
-**Monitoring**: When will you check  the key metrics, and who will do it?
+Describe a schedule (or frequency) for evaluating the success of the team (or role keeper), the process used, and who should take part in which parts of the evaluation.
 
-**Evaluation:**  Agree on a schedule for evaluation of success of the team/role, any evaluation criteria in addition to the key metrics, and any other relevant aspects of the evaluation.
 
 ## The Delegation Game
 
@@ -128,11 +118,9 @@ The Delegation Game is a simple and fun activity for defining and delegating a n
 
 ## Examples
 
-Here's a few examples for delegation canvases as they might appear in a digital logbook:
+Here's an example for a delegation canvas as it they might appear in a digital logbook:
+* [Marketing Department ](delegation-canvas/example-marketing-department.md)
 
-* [Architecture Circle](delegation-canvas/example-architecture-circle.md)
-* [Architecture Delegate](delegation-canvas/example-architecture-delegate.md)
-* [Product Owner](delegation-canvas/example-product-owner.md)
 
 
 ## Downloads
@@ -141,8 +129,8 @@ Here's a few examples for delegation canvases as they might appear in a digital 
 
 ## License
 
-The _S3 Delegation Canvas_ by Bernhard Bockelbrink is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
+The _S3 Delegation Canvas_ by Bernhard Bockelbrink, Lilianda David and James Priest is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-sa/4.0/).
 
 More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://s3canvas.sociocracy30.org>
 
-S3 Delegation Canvas rev. 2021-05-15
+S3 Delegation Canvas rev. 2023-12-04
