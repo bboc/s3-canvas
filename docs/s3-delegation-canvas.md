@@ -59,8 +59,7 @@ Whom does this team (or role keeper) deliver value to, and what specifically do 
 
 _Who is the team (or role keeper) dependent on, from other parts of the organization or the outside world, and what deliverable(s) do these people provide?_
 
-List key dependencies – the products, services, information etc. essential to the
-work of the team/role – both from **within the organization** and from the **outside world**. Describe who provides them, and clarify expectations about the delivery if helpful.
+List key dependencies – the products, services, information etc. essential to the work of the team/role – both from **within the organization** and from the **outside world**. Describe who provides them, and clarify expectations about the delivery if helpful.
 
 
 ### 5. External Constraints
