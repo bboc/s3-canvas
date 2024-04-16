@@ -21,9 +21,9 @@ assets:
 	# Note: it appears impossible to export one specific canvas from Omnigraffle, just the one that is 
 	# the "current canvas", which leads to unpredictable results, therefore this crude workaround
 	-mkdir tmp/42dpi
-	ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-delegation-canvas $(42DPI) $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-organization-canvas $(42DPI) $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-team-canvas $(42DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-delegation-canvas $(42DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-organization-canvas $(42DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PNG $(REPOSITORYPATH)/tmp/42dpi/s3-team-canvas $(42DPI) $(DOCUMENT)
 	mv $(REPOSITORYPATH)/tmp/42dpi/s3-delegation-canvas/s3-delegation-canvas-with-guide.png docs/img/s3-delegation-canvas-sm.png
 	mv $(REPOSITORYPATH)/tmp/42dpi/s3-organization-canvas/s3-organization-canvas-with-guide.png docs/img/s3-organization-canvas-sm.png
 	mv $(REPOSITORYPATH)/tmp/42dpi/s3-team-canvas/s3-team-canvas-with-guide.png docs/img/s3-team-canvas-sm.png
@@ -35,9 +35,9 @@ assets:
 	-mkdir tmp/140dpi
 	-mkdir docs/img/140dpi
 
-	ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/delegation-canvas $(140DPI) $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/organization-canvas $(140DPI) $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/team-canvas $(140DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/delegation-canvas $(140DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/organization-canvas $(140DPI) $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PNG $(REPOSITORYPATH)/tmp/140dpi/team-canvas $(140DPI) $(DOCUMENT)
 	mv tmp/140dpi/delegation-canvas/* docs/img/140dpi
 	mv tmp/140dpi/organization-canvas/* docs/img/140dpi
 	mv tmp/140dpi/team-canvas/* docs/img/140dpi
@@ -45,9 +45,9 @@ assets:
 	# 3. Build one PDF with all canvases 
 	# of course it is also impossible to export one specific canvas to a PDF file.
 
-	ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-delegation-canvas.pdf $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-organization-canvas.pdf $(DOCUMENT)
-	ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-team-canvas.pdf $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-delegation-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-delegation-canvas.pdf $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-organization-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-organization-canvas.pdf $(DOCUMENT)
+	./ogexport.js $(REPOSITORYPATH)/src/s3-team-canvas.graffle PDF $(REPOSITORYPATH)/docs/pdf/s3-team-canvas.pdf $(DOCUMENT)
 
 site:
 	cd docs; bundle exec jekyll build
