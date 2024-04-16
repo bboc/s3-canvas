@@ -1,14 +1,32 @@
 Updates:
-	Add purpose to org canvas:
-		- draft text (ensure cross-references are not missed)
-		- webpage
-		- facilitation guide
-		- canvas with guide
+	- Add purpose to org canvas @done
+	- revise canvas @done
+	- update all edits across versions
+		- webpage @done
+		- facilitation guide @done
+		- canvas with guide @done
 		- google doc(s)!
 	Delegation Canvas:
+		
+		Text:
+		✔ add new example @done (24-02-11 23:50)
+		✔ edit the guide @done (24-02-12 00:17)
+		✔ update news @done (24-02-11 23:45)
 		- update delegation canvas examples @later
 		- adapt new extensive pattern description for website text @later
 		- "add more informations / a more detailed facilitation guide for filling out the canvas can be found at <url>" in all formats
+		Assets:
+		✔ export images as 140dpi @done (24-02-11 23:35)
+		✔ upload pdf to website @done (24-02-11 22:41)
+		✔ make sure exported images all have the correct names @done (24-02-11 23:35)
+		✔ export canvs-sm (72dpi or less) @done (24-02-11 23:35)
+		- update all linked documents in downloads
+			✔ printable canvas (standard PDF) @done (24-02-11 23:07)
+			✔ 140 dpi (4 formats) @done (24-02-11 23:29)
+			- A4 Printable (google doc)
+			- online version (google doc)
+		Other:
+		- bump version to 2024-02-09
 	Fix webpage layout:
 		- fix menu position in mobile layout @later
 		- fix logo position in footer @later
