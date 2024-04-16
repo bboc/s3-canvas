@@ -4,65 +4,104 @@
 
 ## Overview
 
-The S3 Organization Canvas is a tool for exploring new business models or product ideas, or for communicating existing ones. Sections are numbered to indicate the suggested order of moving through the canvas. For new business models or products, it’s a good idea to create several canvases, which each explore different tangents, and then integrate the best ideas into a smaller set of canvases. Those can then be tested through pretotyping or other means of interacting with (potential) customers.
+The S3 Organization Canvas is a tool for exploring new business models or product ideas, or for communicating existing ones. Sections are numbered to indicate the suggested order of moving through the canvas. 
+
+For new business models or products, it’s a good idea to create several canvases, which each explore different tangents, and then integrate the best ideas into a smaller set of canvases. Those can then be tested through pretotyping or other means of interacting with (potential) customers.
 
 ![](/img/s3-organization-canvas-sm.png)
 
+
 ## Organization Canvas Guide
 
-Here's how you create an organization canvas for your team:
+Here's how you create an organization canvas for your organization:
 
-### 1. Key Drivers
 
-What are the top three drivers your organization responds to? Describe each driver in terms of actor, needs and  context. Actors can be individuals or groups, inside or outside the organization, or the organization itself.
+### 1. Purpose
 
-### 2. Key Deliverables
+_What is the overall purpose the organization exists to fulfill?_
 
-What does your organization provide to meet the key drivers? Describe the top three deliverables (products, services, experiences or transformations). 
+Describe the primary driver and main requirement the members of the organization strive to fulfill.
 
-### 3. Customer Segment
 
-Who will be your ideal customers? These should relate to the actors mentioned in your key drivers.
+### 2. Core Values
 
-#### 3b. Early Adopters
+_What are the fundamental principles that guide how members of the organization interact with each other and with the outside world?_
 
-What part of your customer segment can you use to find out fast whether or not your organization is able to  deliver value?
+List those guidelines for behavior and/or ethical constraints you consider essential to the identity or success of your organization.
 
-### 4. Unique Value Proposition
 
-What is the one thing that makes your organization unique? Explain what will convince your customers and your partners to choose your organization over others.
+### 3. Legal Status and Ownership
 
-### 5. Key Challenges
+_What is the legal status of the organization? Who are the shareholders, if any?_
 
-What are important constraints or risks your organization is facing? Look to your key drivers, customer segment and unique value proposition to identify them.
 
-### 6. Channels
+### 4. Key Constraints
 
-How does your organization deliver its value proposition to its customers? How do customers find out about your organization?
+_What significant internal or external constraints limit people’s autonomy to decide and act in the organization?_
 
-### 7. Key Resources and Skills
+ Consider legal or regulatory constraints, decision-making, stakeholder influence, sharing gains and losses, etc.
 
-What does your organization need to sustain itself and create value for the customer? What skills do you need to create the key deliverables?
 
-### 8. Key Partners
+### 5. Key Deliverables
 
-Who can provide essential support, services or materials to your organization? What might you outsource our buy?
 
-### 9. Key Values
+_What does your organization provide to achieve its purpose? Describe the top three deliverables (products, services, components or materials)._
 
-Describe the culture of your collaboration, and how you will interact with the rest of the world. List three guidelines for behavior and/or ethical constraints you consider essential to the success of your organization.
 
-### 10. Key Metrics
+### 6. Customer Segment
 
-How will you measure effectiveness of your response to your key drivers? Prefer simple, continuous and actionable metrics.
+_Considering the organization’s purpose, who are your ideal customers?_
+
+**Early Adopters:** _Which initial customers can help you discover whether your organization is fulfilling its purpose effectively?_
+
+Identify a small group of your customer segments that will help you find out fast whether or not your business model is viable?
+
+
+### 7. Unique Value Proposition
+
+_What is unique about your organization that will convince potential customers and partners to choose your organization over others?_
+
+
+### 8. Sales and Marketing Strategy
+
+_How do you reach and engage prospective customers, and how do you provide and deliver your products and services to them?_
+
+How would customers find out about your products and services, and how would you deliver your products and services to your customers? What are your customer segment's preferred channels? Which channels are most effective, which ones are cost-efficient?
+
+
+### 9. Key Challenges
+
+_What important challenges (risks, vulnerabilities, uncertainties, etc) are you aware of that could impede the organization's ability to fulfill its purpose effectively?_
+
+
+Challenges often relate to deliverables, customer segment and unique value proposition, but also to sales or marketing strategy, resources, costs, partners, or revenue streams. Look for 
+
+-   risks and vulnerabilities
+-   variables (e.g. weather)
+-   uncertainty and complexity
+-   lack of skills or resources
+
+
+### 10. Key Partners
+
+Who can provide essential products, services or support to your organization? What might you outsource or buy?
+
 
 ### 11. Cost Structure
 
-What are fixed and running costs for your organization?
+_What are fixed and running costs for your organization? What are the most significant costs, and how do costs relate to the number of items produced or acquired?_
+
 
 ### 12. Revenue Streams
 
-How will you start and sustain your organization financially?
+_How will you (start and) sustain your organization financially?_
+
+
+### 13. Key Metrics
+
+_How will you measure the organization’s effectiveness in fulfilling its purpose?_
+ 
+Define simple, continuous and actionable metrics.
 
 ## Downloads
 
@@ -74,4 +113,4 @@ The _S3 Organization Canvas_ by Bernhard Bockelbrink is licensed under a [Creati
 
 More information on the S3 canvas series, and versions for printing the canvas in various formats can be found at <http://s3canvas.sociocracy30.org>
 
-S3 Organization Canvas rev. 2017-05-15
+S3 Organization Canvas rev. 2024-04-16

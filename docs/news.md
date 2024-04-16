@@ -4,6 +4,10 @@ title: News
 
 # News and Updates
 
+## 2024-04-16
+
+* revised Organization Canvas to be consistent with the Delegation Canvas and the S3 Practical Guide
+
 ## 2024-02-09
 
 * aligned Delegation Canvas with current version of the pattern [Clarify and Develop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)
