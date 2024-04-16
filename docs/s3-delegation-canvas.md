@@ -48,7 +48,7 @@ _What is the essential work and decision-making being delegated to the team (or 
 
 ### 3. Customers and Deliverables
 
-Whom does this team (or role keeper) deliver value to, and what specifically do they provide?
+_Whom does this team (or role keeper) deliver value to, and what specifically do they provide?_
 
 - List all relevant **internal and external customers** who depend on, or benefit from the value provided by this team (or role keeper).
 - Include both **customers and users** (if there is a difference).
