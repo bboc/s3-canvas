@@ -39,13 +39,14 @@ _What is the legal status of the organization? Who are the shareholders, if any?
 
 _What significant internal or external constraints limit people’s autonomy to decide and act in the organization?_
 
- Consider legal or regulatory constraints, decision-making, stakeholder influence, sharing gains and losses, etc.
+Consider legal or regulatory constraints, decision-making, stakeholder influence, sharing gains and losses, etc.
 
 
 ### 5. Key Deliverables
 
+_What does your organization provide to achieve its purpose?_
 
-_What does your organization provide to achieve its purpose? Describe the top three deliverables (products, services, components or materials)._
+Describe at least the top three deliverables (products, services, components or materials).
 
 
 ### 6. Customer Segment
@@ -54,7 +55,7 @@ _Considering the organization’s purpose, who are your ideal customers?_
 
 **Early Adopters:** _Which initial customers can help you discover whether your organization is fulfilling its purpose effectively?_
 
-Identify a small group of your customer segments that will help you find out fast whether or not your business model is viable?
+Identify a small group of your customer segments that will help you find out fast whether or not your business model is viable.
 
 
 ### 7. Unique Value Proposition
@@ -95,6 +96,8 @@ _What are fixed and running costs for your organization? What are the most signi
 ### 12. Revenue Streams
 
 _How will you (start and) sustain your organization financially?_
+
+Consider both short-term and long-term revenue.
 
 
 ### 13. Key Metrics
