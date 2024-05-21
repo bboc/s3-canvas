@@ -24,7 +24,7 @@ Responsibility for domains is delegated to groups or individuals, who then may d
 
 The delegator selects the delegatees and retains overall accountability for the domain.
 
-You can find more information about domains an delegation in the [introduction to the S3 Practical Guide](http://patterns.sociocracy30.org/domain.html) and in the pattern [Clarify and Delveop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)
+You can find more information about domains and delegation in the [introduction to the S3 Practical Guide](http://patterns.sociocracy30.org/domain.html) and in the pattern [Clarify and Develop Domains](http://patterns.sociocracy30.org/clarify-and-develop-domains.html)
 
 
 ## Delegation Canvas Guide
